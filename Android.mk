@@ -1,3 +1,6 @@
+# make file for Deep_Space 
+# Written by David Vader 2016
+
 LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
